@@ -81,3 +81,6 @@ s1 = str3.lstrip('/')
 print(s1)
 s1 = str3.rstrip('/')
 print(s1)
+
+s = len("hello")
+print('hshdh  ' +  str(s))
